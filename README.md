@@ -4,7 +4,7 @@ Welcome to the repository of my "10 Days of JavaScript" code challenge on Hacker
 
 ## About the Challenge
 
-The "10 Days of JavaScript" code challenge consists of 10 JavaScript programming problems. Each day, I solve one problem and share its solution here. I aim to keep the solutions clean, optimized, and well-structured.
+The "10 Days of JavaScript" code challenge consists of JavaScript programming problems. Each day, I solve several problems and share their solution here. I aim to keep the solutions clean, optimized, and well-structured.
 
 ## Repository Structure
 

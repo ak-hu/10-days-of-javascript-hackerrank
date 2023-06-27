@@ -1,3 +1,5 @@
+// @language=javascript
+
 /*
  * Complete the Rectangle function
  */

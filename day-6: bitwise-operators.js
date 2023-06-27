@@ -1,3 +1,5 @@
+// @language=javascript
+
 const getMaxLessThanK = (n, k) => {
     let max = 0;
     for (let a = 1; a <= n; a++) {

@@ -1,3 +1,5 @@
+// @language=javascript
+
 function main() {
     // Write your code here. Read input using 'readLine()' and print output using 'console.log()'.
     let r = readLine();

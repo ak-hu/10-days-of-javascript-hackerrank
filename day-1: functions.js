@@ -1,3 +1,5 @@
+// @language=javascript
+
 /*
  * Create the function factorial here
  */

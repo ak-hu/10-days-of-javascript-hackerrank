@@ -1,3 +1,5 @@
+// @language=javascript
+
 function getGrade(score) {
     let grade;
     // Write your code here
